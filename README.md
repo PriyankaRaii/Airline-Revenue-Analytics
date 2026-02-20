@@ -30,10 +30,9 @@ Dashboard KPIs
 - High Value Revenue
 
 ---
-Airline-Revenue-Analytics.png
+
 Power BI Dashboard
 
-![Dashboard](https://github.com/PriyankaRaii/Airline-Revenue-Analytics/tree/main)
 
 Business Objective
 To identify revenue-driving customer segments and operational factors affecting customer satisfaction for better retention and pricing strategies.
