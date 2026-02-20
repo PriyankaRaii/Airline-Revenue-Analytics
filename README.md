@@ -32,6 +32,7 @@ Dashboard KPIs
 ---
 
 Power BI Dashboard
+<img width="636" height="357" alt="Airline-Revenue-Analytics" src="https://github.com/user-attachments/assets/76bfc1f1-c2a0-4bc3-a64e-9306eaa2bf1a" />
 
 
 Business Objective
