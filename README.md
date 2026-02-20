@@ -30,7 +30,7 @@ Dashboard KPIs
 - High Value Revenue
 
 ---
-
+Airline-Revenue-Analytics.png
 Power BI Dashboard
 
 ![Dashboard](https://github.com/PriyankaRaii/Airline-Revenue-Analytics/tree/main)
